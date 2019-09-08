@@ -1,6 +1,6 @@
 # ScalaBrot
 
-A short Scala/Java program rendering the Mandlebrot Set in b&amp;w. 
+A 100 lines Scala/Java program rendering the Mandlebrot Set in b&amp;w. 
 
 Inspired by [this Haskell project](https://github.com/cies/haskell-fractal).
 
