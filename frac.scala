@@ -38,9 +38,7 @@ object frac {
     def conj(): Complex = {
       new Complex(this.real(), -1 * this.imaginary())
     }
-  }
-  
-  
+  }  
 
   def add(z: Complex, w: Complex): Complex = {
     new Complex(z.real() + w.real(), z.imaginary() + w.imaginary())
